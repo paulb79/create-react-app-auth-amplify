@@ -38,3 +38,12 @@ amplify/.config/local-*
 amplify/backend/amplify-meta.json
 aws-exports.js
 awsconfiguration.json
+.idea/create-react-app-auth-amplify.iml
+.idea/misc.xml
+.gitignore
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/codeStyles/codeStyleConfig.xml
+.gitignore
+.gitignore
